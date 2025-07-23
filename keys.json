@@ -2,7 +2,7 @@
   "ZAGE-DENEME-KEY": {
     "created": false,
     "expire": null,
-    "durationDays": 10000000000,
+    "durationDays": 7,
     "owner": null,
     "notes": null,
     "used": false
