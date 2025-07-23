@@ -1,0 +1,397 @@
+{
+  "ZAGE-DENEME-KEY": {
+    "created": false,
+    "expire": null,
+    "durationDays": 10000000000,
+    "owner": null,
+    "notes": null,
+    "used": false
+  },
+  "ZAGE-KEY-Q7H9RP-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-JX2KPL-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-W3ZB5Q-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-9XY8DG-3": {
+    "used": true,
+    "ip": null,
+    "created": null,
+    "expire": "2025-07-26T20:10:48.1157969Z",
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-PU4W6T-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-N8KMZV-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-RLFDH3-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-6J4PXT-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-BCYH89-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-FT7M2S-3": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 3,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-BHT9FJ-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-9C5NYK-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-X3PL7J-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-RKWVYT-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-ZQ9DNY-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-6FRC39-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-K9XCF4-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-T5XWBN-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-PZNRK7-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-7HQMBY-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-JN3PZY-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-WM64FJ-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-VFEX7W-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-M49H8T-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-8ZXHKT-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-2RY9JL-7": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 7,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-39VYXA-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-7K2HZP-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-PXZB6J-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-G5NDQM-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-Y4J2KV-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-WX7GJH-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-REPNZB-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-MYPLW9-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-7YQMCL-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-JRV3W2-15": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 15,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-FXPCVL-30": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 30,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-M8LRXN-30": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 30,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-Y73PLF-30": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 30,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-T5V8MC-30": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 30,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-BF1WYK-30": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 30,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-GJKCL8-30": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 30,
+    "owner": null,
+    "notes": null
+  },
+  "ZAGE-KEY-8DHT3R-30": {
+    "used": false,
+    "ip": null,
+    "created": null,
+    "expire": null,
+    "durationDays": 30,
+    "owner": null,
+    "notes": null
+  }
+}
