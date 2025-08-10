@@ -10,7 +10,7 @@
   "trioks": {
     "created": null,
     "expire": null,
-    "durationDays": 1,
+    "durationDays": 3,
     "owner": null,
     "notes": null,
     "used": false
@@ -403,4 +403,5 @@
     "notes": null
   }
 }
+
 
