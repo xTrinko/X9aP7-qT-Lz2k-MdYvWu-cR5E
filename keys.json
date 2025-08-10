@@ -7,6 +7,14 @@
     "notes": null,
     "used": false
   },
+  "trioks": {
+    "created": null,
+    "expire": null,
+    "durationDays": 1,
+    "owner": null,
+    "notes": null,
+    "used": false
+  },
   "ZAGE-KEY-Q7H9RP-3": {
     "used": false,
     "ip": null,
@@ -395,3 +403,4 @@
     "notes": null
   }
 }
+
