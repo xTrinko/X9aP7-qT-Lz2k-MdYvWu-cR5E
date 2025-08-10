@@ -134,14 +134,15 @@
     "notes": null
   },
   "ZAGE-KEY-ZQ9DNY-7": {
-    "used": false,
+    "used": true,
     "ip": null,
-    "created": null,
-    "expire": null,
+    "created": "2025-08-11",
+    "expire": "2025-08-18",
     "durationDays": 7,
     "owner": null,
     "notes": null
-  },
+}
+
   "ZAGE-KEY-6FRC39-7": {
     "used": false,
     "ip": null,
@@ -395,6 +396,7 @@
     "notes": null
   }
 }
+
 
 
 
